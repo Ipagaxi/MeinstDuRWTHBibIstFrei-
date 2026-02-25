@@ -1,0 +1,3252 @@
+{
+   "examOffers" : [ {
+      "courseId" : 543247,
+      "deRegistrationEnd" : {
+         "coType" : "datetime",
+         "value" : "2026-02-20T23:59:00"
+      },
+      "exExamPlanningComment" : "",
+      "exExamPlanningTools" : "",
+      "exExamPlanningType" : "",
+      "courseIdentityCodeId" : 184062,
+      "courseLink" : {
+         "rel" : "detail",
+         "href" : "https://online.rwth-aachen.de/RWTHonline/pages/slc.tm.cp/course/543247",
+         "type" : "text/html",
+         "name" : "CpCourseLibDto",
+         "key" : "543247"
+      },
+      "courseName" : {
+         "coType" : "model-core.lib.model.langdata",
+         "value" : "Advanced Predictive Analytics",
+         "translations" : {
+            "translation" : [ {
+               "lang" : "de",
+               "value" : "Advanced Predictive Analytics"
+            }, {
+               "lang" : "en",
+               "value" : "Advanced Predictive Analytics"
+            }, {
+               "lang" : "fr"
+            }, {
+               "lang" : "it"
+            } ]
+         }
+      },
+      "courseSemesterId" : 293,
+      "courseSemesterShortName" : {
+         "coType" : "model-core.lib.model.langdata",
+         "value" : "2025 W",
+         "translations" : {
+            "translation" : [ {
+               "lang" : "de",
+               "value" : "2025 W"
+            }, {
+               "lang" : "en"
+            }, {
+               "lang" : "fr"
+            }, {
+               "lang" : "it"
+            } ]
+         }
+      },
+      "displayCourseNumber" : "81.PV00039",
+      "examDate" : {
+         "coType" : "date",
+         "value" : "2026-02-24"
+      },
+      "examDateInformation" : "Ersttermin, zentral geplant Neben dieser, für die Rücktrittsberechnung relevanten Prüfungsleistung  sind ggf. veranstaltungsbegleitende Teilleistungen zu erbringen (siehe Modulbeschreibung) bzw. erkundigen Sie sich beim Dozierenden zum Beginn des Semester. Weitere Informationen erhalten Sie über den Lernraum der Veranstaltung (RWTHmoodle).",
+      "examEnd" : {
+         "coType" : "time",
+         "value" : "10:00:00"
+      },
+      "examPersons" : [ {
+         "identities" : [ {
+            "id" : 108091,
+            "personId" : 108091,
+            "obfuscated" : "2B1AA217514917C2",
+            "firstName" : "Sven",
+            "lastName" : "Müller",
+            "gender" : "MALE",
+            "genderNrForTitle" : 1,
+            "businessCardLink" : {
+               "rel" : "related",
+               "href" : "https://online.rwth-aachen.de/RWTHonline/ee/rest/pages/brm.pm.bc/business-card/2B1AA217514917C2",
+               "name" : "IdentityLibDto",
+               "key" : "2B1AA217514917C2"
+            }
+         } ],
+         "functionName" : {
+            "coType" : "model-core.lib.model.langdata",
+            "value" : "Examiner",
+            "translations" : {
+               "translation" : [ {
+                  "lang" : "de",
+                  "value" : "Prüfer*in"
+               }, {
+                  "lang" : "en",
+                  "value" : "Examiner"
+               }, {
+                  "lang" : "fr"
+               }, {
+                  "lang" : "it"
+               } ]
+            }
+         }
+      } ],
+      "examStart" : {
+         "coType" : "time",
+         "value" : "09:00:00"
+      },
+      "examType" : {
+         "coType" : "model-core.lib.model.langdata",
+         "value" : "subject examination",
+         "translations" : {
+            "translation" : [ {
+               "lang" : "de",
+               "value" : "Fachprüfung"
+            }, {
+               "lang" : "en",
+               "value" : "subject examination"
+            }, {
+               "lang" : "fr"
+            }, {
+               "lang" : "it"
+            } ]
+         }
+      },
+      "examTypeKey" : "F",
+      "id" : 1199281,
+      "identificationName" : "817410",
+      "maxNumberOfParticipants" : 9999,
+      "numberOfParticipants" : 4,
+      "organisationLibId" : 19223,
+      "organisationLibName" : {
+         "coType" : "model-core.lib.model.langdata",
+         "value" : "Chair of Data and Business Analytics",
+         "translations" : {
+            "translation" : [ {
+               "lang" : "de",
+               "value" : "Lehrstuhl für Data and Business Analytics"
+            }, {
+               "lang" : "en",
+               "value" : "Chair of Data and Business Analytics"
+            }, {
+               "lang" : "fr"
+            }, {
+               "lang" : "it"
+            } ]
+         }
+      },
+      "preliminaryRegistration" : false,
+      "registrationDateEnd" : {
+         "coType" : "datetime",
+         "value" : "2026-01-15T23:59:00"
+      },
+      "registrationDateStart" : {
+         "coType" : "datetime",
+         "value" : "2025-11-15T00:00:00"
+      },
+      "showInformationMyStudy" : false
+   }, {
+      "courseId" : 542984,
+      "deRegistrationEnd" : {
+         "coType" : "datetime",
+         "value" : "2026-02-20T23:59:00"
+      },
+      "exExamPlanningComment" : "",
+      "exExamPlanningTools" : "",
+      "exExamPlanningType" : "",
+      "appointments" : [ {
+         "id" : 6065472,
+         "displayName" : "BS I (2131|101)",
+         "url" : {
+            "rel" : "related",
+            "href" : "https://online.rwth-aachen.de/RWTHonline/ee/rest/pages/slc.cp.apt/resource/10555"
+         },
+         "personalAppointment" : false
+      } ],
+      "courseIdentityCodeId" : 174262,
+      "courseLink" : {
+         "rel" : "detail",
+         "href" : "https://online.rwth-aachen.de/RWTHonline/pages/slc.tm.cp/course/542984",
+         "type" : "text/html",
+         "name" : "CpCourseLibDto",
+         "key" : "542984"
+      },
+      "courseName" : {
+         "coType" : "model-core.lib.model.langdata",
+         "value" : "Advanced Soil Mechanics",
+         "translations" : {
+            "translation" : [ {
+               "lang" : "de",
+               "value" : "Advanced Soil Mechanics"
+            }, {
+               "lang" : "en",
+               "value" : "Advanced Soil Mechanics"
+            }, {
+               "lang" : "fr"
+            }, {
+               "lang" : "it"
+            } ]
+         }
+      },
+      "courseSemesterId" : 293,
+      "courseSemesterShortName" : {
+         "coType" : "model-core.lib.model.langdata",
+         "value" : "2025 W",
+         "translations" : {
+            "translation" : [ {
+               "lang" : "de",
+               "value" : "2025 W"
+            }, {
+               "lang" : "en"
+            }, {
+               "lang" : "fr"
+            }, {
+               "lang" : "it"
+            } ]
+         }
+      },
+      "displayCourseNumber" : "31.PV00190",
+      "examDate" : {
+         "coType" : "date",
+         "value" : "2026-02-24"
+      },
+      "examDateInformation" : "Wiederholung aus Vorsemester, zentral geplant",
+      "examEnd" : {
+         "coType" : "time",
+         "value" : "13:30:00"
+      },
+      "examPersons" : [ {
+         "identities" : [ {
+            "id" : 94162,
+            "personId" : 94162,
+            "obfuscated" : "5C8DEA63A7A5A653",
+            "firstName" : "Raul",
+            "lastName" : "Fuentes Gutierrez",
+            "gender" : "MALE",
+            "genderNrForTitle" : 1,
+            "businessCardLink" : {
+               "rel" : "related",
+               "href" : "https://online.rwth-aachen.de/RWTHonline/ee/rest/pages/brm.pm.bc/business-card/5C8DEA63A7A5A653",
+               "name" : "IdentityLibDto",
+               "key" : "5C8DEA63A7A5A653"
+            }
+         } ],
+         "functionName" : {
+            "coType" : "model-core.lib.model.langdata",
+            "value" : "Examiner",
+            "translations" : {
+               "translation" : [ {
+                  "lang" : "de",
+                  "value" : "Prüfer*in"
+               }, {
+                  "lang" : "en",
+                  "value" : "Examiner"
+               }, {
+                  "lang" : "fr"
+               }, {
+                  "lang" : "it"
+               } ]
+            }
+         }
+      } ],
+      "examStart" : {
+         "coType" : "time",
+         "value" : "12:00:00"
+      },
+      "examType" : {
+         "coType" : "model-core.lib.model.langdata",
+         "value" : "subject examination",
+         "translations" : {
+            "translation" : [ {
+               "lang" : "de",
+               "value" : "Fachprüfung"
+            }, {
+               "lang" : "en",
+               "value" : "subject examination"
+            }, {
+               "lang" : "fr"
+            }, {
+               "lang" : "it"
+            } ]
+         }
+      },
+      "examTypeKey" : "F",
+      "id" : 1196052,
+      "identificationName" : "314310",
+      "maxNumberOfParticipants" : 9999,
+      "numberOfParticipants" : 1,
+      "organisationLibId" : 14401,
+      "organisationLibName" : {
+         "coType" : "model-core.lib.model.langdata",
+         "value" : "Chair of Geotechnical Engineering and Institute of Geomechanics and Underground Technology",
+         "translations" : {
+            "translation" : [ {
+               "lang" : "de",
+               "value" : "Lehrstuhl für Geotechnik im Bauwesen und Institut für Geomechanik und Untergrundtechnik"
+            }, {
+               "lang" : "en",
+               "value" : "Chair of Geotechnical Engineering and Institute of Geomechanics and Underground Technology"
+            }, {
+               "lang" : "fr"
+            }, {
+               "lang" : "it"
+            } ]
+         }
+      },
+      "preliminaryRegistration" : true,
+      "registrationDateEnd" : {
+         "coType" : "datetime",
+         "value" : "2026-01-15T23:59:00"
+      },
+      "registrationDateStart" : {
+         "coType" : "datetime",
+         "value" : "2025-11-15T00:00:00"
+      },
+      "showInformationMyStudy" : false
+   }, {
+      "courseId" : 540733,
+      "deRegistrationEnd" : {
+         "coType" : "datetime",
+         "value" : "2026-02-20T23:59:00"
+      },
+      "exExamPlanningComment" : "",
+      "exExamPlanningTools" : "",
+      "exExamPlanningType" : "",
+      "appointments" : [ {
+         "id" : 6066420,
+         "displayName" : "H02 (1385|102)",
+         "url" : {
+            "rel" : "related",
+            "href" : "https://online.rwth-aachen.de/RWTHonline/ee/rest/pages/slc.cp.apt/resource/26150"
+         },
+         "personalAppointment" : false
+      } ],
+      "courseIdentityCodeId" : 116803,
+      "courseLink" : {
+         "rel" : "detail",
+         "href" : "https://online.rwth-aachen.de/RWTHonline/pages/slc.tm.cp/course/540733",
+         "type" : "text/html",
+         "name" : "CpCourseLibDto",
+         "key" : "540733"
+      },
+      "courseName" : {
+         "coType" : "model-core.lib.model.langdata",
+         "value" : "Aerodynamics I",
+         "translations" : {
+            "translation" : [ {
+               "lang" : "de",
+               "value" : "Aerodynamik I"
+            }, {
+               "lang" : "en",
+               "value" : "Aerodynamics I"
+            }, {
+               "lang" : "fr"
+            }, {
+               "lang" : "it"
+            } ]
+         }
+      },
+      "courseSemesterId" : 293,
+      "courseSemesterShortName" : {
+         "coType" : "model-core.lib.model.langdata",
+         "value" : "2025 W",
+         "translations" : {
+            "translation" : [ {
+               "lang" : "de",
+               "value" : "2025 W"
+            }, {
+               "lang" : "en"
+            }, {
+               "lang" : "fr"
+            }, {
+               "lang" : "it"
+            } ]
+         }
+      },
+      "displayCourseNumber" : "41.PV05981",
+      "examDate" : {
+         "coType" : "date",
+         "value" : "2026-02-24"
+      },
+      "examDateInformation" : "Wiederholung aus Vorsemester, zentral geplant",
+      "examEnd" : {
+         "coType" : "time",
+         "value" : "13:30:00"
+      },
+      "examPersons" : [ {
+         "identities" : [ {
+            "id" : 52532,
+            "personId" : 52532,
+            "obfuscated" : "8BF119BDE94E50F9",
+            "firstName" : "Wolfgang",
+            "lastName" : "Schröder",
+            "gender" : "MALE",
+            "genderNrForTitle" : 1,
+            "businessCardLink" : {
+               "rel" : "related",
+               "href" : "https://online.rwth-aachen.de/RWTHonline/ee/rest/pages/brm.pm.bc/business-card/8BF119BDE94E50F9",
+               "name" : "IdentityLibDto",
+               "key" : "8BF119BDE94E50F9"
+            }
+         } ],
+         "functionName" : {
+            "coType" : "model-core.lib.model.langdata",
+            "value" : "Examiner",
+            "translations" : {
+               "translation" : [ {
+                  "lang" : "de",
+                  "value" : "Prüfer*in"
+               }, {
+                  "lang" : "en",
+                  "value" : "Examiner"
+               }, {
+                  "lang" : "fr"
+               }, {
+                  "lang" : "it"
+               } ]
+            }
+         }
+      } ],
+      "examStart" : {
+         "coType" : "time",
+         "value" : "11:30:00"
+      },
+      "examType" : {
+         "coType" : "model-core.lib.model.langdata",
+         "value" : "subject examination",
+         "translations" : {
+            "translation" : [ {
+               "lang" : "de",
+               "value" : "Fachprüfung"
+            }, {
+               "lang" : "en",
+               "value" : "subject examination"
+            }, {
+               "lang" : "fr"
+            }, {
+               "lang" : "it"
+            } ]
+         }
+      },
+      "examTypeKey" : "F",
+      "id" : 1196370,
+      "identificationName" : "415110",
+      "maxNumberOfParticipants" : 9999,
+      "numberOfParticipants" : 32,
+      "organisationLibId" : 14438,
+      "organisationLibName" : {
+         "coType" : "model-core.lib.model.langdata",
+         "value" : "Chair of Fluid Mechanics and Institute of Aerodynamics",
+         "translations" : {
+            "translation" : [ {
+               "lang" : "de",
+               "value" : "Lehrstuhl für Strömungsmechanik und Aerodynamisches Institut"
+            }, {
+               "lang" : "en",
+               "value" : "Chair of Fluid Mechanics and Institute of Aerodynamics"
+            }, {
+               "lang" : "fr"
+            }, {
+               "lang" : "it"
+            } ]
+         }
+      },
+      "preliminaryRegistration" : true,
+      "registrationDateEnd" : {
+         "coType" : "datetime",
+         "value" : "2026-01-15T23:59:00"
+      },
+      "registrationDateStart" : {
+         "coType" : "datetime",
+         "value" : "2025-11-15T00:00:00"
+      },
+      "showInformationMyStudy" : false
+   }, {
+      "courseId" : 544937,
+      "deRegistrationEnd" : {
+         "coType" : "datetime",
+         "value" : "2026-02-20T23:59:00"
+      },
+      "exExamPlanningComment" : "",
+      "exExamPlanningTools" : "",
+      "exExamPlanningType" : "",
+      "appointments" : [ {
+         "id" : 6305616,
+         "displayName" : "Großer Hörsaal AM (1420|210)",
+         "url" : {
+            "rel" : "related",
+            "href" : "https://online.rwth-aachen.de/RWTHonline/ee/rest/pages/slc.cp.apt/resource/17052"
+         },
+         "personalAppointment" : false
+      } ],
+      "courseIdentityCodeId" : 153549,
+      "courseLink" : {
+         "rel" : "detail",
+         "href" : "https://online.rwth-aachen.de/RWTHonline/pages/slc.tm.cp/course/544937",
+         "type" : "text/html",
+         "name" : "CpCourseLibDto",
+         "key" : "544937"
+      },
+      "courseName" : {
+         "coType" : "model-core.lib.model.langdata",
+         "value" : "Bioprocess Kinetics",
+         "translations" : {
+            "translation" : [ {
+               "lang" : "de",
+               "value" : "Bioprozesskinetik"
+            }, {
+               "lang" : "en",
+               "value" : "Bioprocess Kinetics"
+            }, {
+               "lang" : "fr"
+            }, {
+               "lang" : "it"
+            } ]
+         }
+      },
+      "courseSemesterId" : 293,
+      "courseSemesterShortName" : {
+         "coType" : "model-core.lib.model.langdata",
+         "value" : "2025 W",
+         "translations" : {
+            "translation" : [ {
+               "lang" : "de",
+               "value" : "2025 W"
+            }, {
+               "lang" : "en"
+            }, {
+               "lang" : "fr"
+            }, {
+               "lang" : "it"
+            } ]
+         }
+      },
+      "displayCourseNumber" : "41.PV28826",
+      "examDate" : {
+         "coType" : "date",
+         "value" : "2026-02-24"
+      },
+      "examDateInformation" : "Ersttermin, zentral geplant",
+      "examEnd" : {
+         "coType" : "time",
+         "value" : "12:30:00"
+      },
+      "examPersons" : [ {
+         "identities" : [ {
+            "id" : 111639,
+            "personId" : 111639,
+            "obfuscated" : "DE2CA4F67694375C",
+            "firstName" : "Jørgen Barsett",
+            "lastName" : "Magnus",
+            "gender" : "MALE",
+            "genderNrForTitle" : 1,
+            "businessCardLink" : {
+               "rel" : "related",
+               "href" : "https://online.rwth-aachen.de/RWTHonline/ee/rest/pages/brm.pm.bc/business-card/DE2CA4F67694375C",
+               "name" : "IdentityLibDto",
+               "key" : "DE2CA4F67694375C"
+            }
+         } ],
+         "functionName" : {
+            "coType" : "model-core.lib.model.langdata",
+            "value" : "Examiner",
+            "translations" : {
+               "translation" : [ {
+                  "lang" : "de",
+                  "value" : "Prüfer*in"
+               }, {
+                  "lang" : "en",
+                  "value" : "Examiner"
+               }, {
+                  "lang" : "fr"
+               }, {
+                  "lang" : "it"
+               } ]
+            }
+         }
+      } ],
+      "examStart" : {
+         "coType" : "time",
+         "value" : "11:00:00"
+      },
+      "examType" : {
+         "coType" : "model-core.lib.model.langdata",
+         "value" : "subject examination",
+         "translations" : {
+            "translation" : [ {
+               "lang" : "de",
+               "value" : "Fachprüfung"
+            }, {
+               "lang" : "en",
+               "value" : "subject examination"
+            }, {
+               "lang" : "fr"
+            }, {
+               "lang" : "it"
+            } ]
+         }
+      },
+      "examTypeKey" : "F",
+      "id" : 1196436,
+      "identificationName" : "416510",
+      "maxNumberOfParticipants" : 9999,
+      "numberOfParticipants" : 102,
+      "organisationLibId" : 14448,
+      "organisationLibName" : {
+         "coType" : "model-core.lib.model.langdata",
+         "value" : "Chair of Biochemical Engineering",
+         "translations" : {
+            "translation" : [ {
+               "lang" : "de",
+               "value" : "Lehrstuhl für Bioverfahrenstechnik"
+            }, {
+               "lang" : "en",
+               "value" : "Chair of Biochemical Engineering"
+            }, {
+               "lang" : "fr"
+            }, {
+               "lang" : "it"
+            } ]
+         }
+      },
+      "preliminaryRegistration" : true,
+      "registrationDateEnd" : {
+         "coType" : "datetime",
+         "value" : "2026-01-15T23:59:00"
+      },
+      "registrationDateStart" : {
+         "coType" : "datetime",
+         "value" : "2025-11-15T00:00:00"
+      },
+      "showInformationMyStudy" : false
+   }, {
+      "courseId" : 541028,
+      "deRegistrationEnd" : {
+         "coType" : "datetime",
+         "value" : "2026-02-20T23:59:00"
+      },
+      "exExamPlanningComment" : "",
+      "exExamPlanningTools" : "",
+      "exExamPlanningType" : "",
+      "appointments" : [ {
+         "id" : 6083464,
+         "displayName" : "Hörsaal 5 (UKA|Fl26, R1)",
+         "url" : {
+            "rel" : "related",
+            "href" : "https://online.rwth-aachen.de/RWTHonline/ee/rest/pages/slc.cp.apt/resource/26412"
+         },
+         "personalAppointment" : false
+      } ],
+      "courseIdentityCodeId" : 116444,
+      "courseLink" : {
+         "rel" : "detail",
+         "href" : "https://online.rwth-aachen.de/RWTHonline/pages/slc.tm.cp/course/541028",
+         "type" : "text/html",
+         "name" : "CpCourseLibDto",
+         "key" : "541028"
+      },
+      "courseName" : {
+         "coType" : "model-core.lib.model.langdata",
+         "value" : "Chemistry/Biochemistry",
+         "translations" : {
+            "translation" : [ {
+               "lang" : "de",
+               "value" : "Chemistry/Biochemistry"
+            }, {
+               "lang" : "en",
+               "value" : "Chemistry/Biochemistry"
+            }, {
+               "lang" : "fr"
+            }, {
+               "lang" : "it"
+            } ]
+         }
+      },
+      "courseSemesterId" : 293,
+      "courseSemesterShortName" : {
+         "coType" : "model-core.lib.model.langdata",
+         "value" : "2025 W",
+         "translations" : {
+            "translation" : [ {
+               "lang" : "de",
+               "value" : "2025 W"
+            }, {
+               "lang" : "en"
+            }, {
+               "lang" : "fr"
+            }, {
+               "lang" : "it"
+            } ]
+         }
+      },
+      "displayCourseNumber" : "15.PV31652",
+      "examDate" : {
+         "coType" : "date",
+         "value" : "2026-02-24"
+      },
+      "examDateInformation" : "Ersttermin, zentral geplant",
+      "examEnd" : {
+         "coType" : "time",
+         "value" : "10:30:00"
+      },
+      "examPersons" : [ {
+         "identities" : [ {
+            "id" : -85082,
+            "personId" : 80229,
+            "obfuscated" : "17D5DE0206C7D6E4",
+            "firstName" : "Patricia",
+            "lastName" : "Korn",
+            "gender" : "FEMALE",
+            "genderNrForTitle" : 2,
+            "businessCardLink" : {
+               "rel" : "related",
+               "href" : "https://online.rwth-aachen.de/RWTHonline/ee/rest/pages/brm.pm.bc/business-card/17D5DE0206C7D6E4",
+               "name" : "IdentityLibDto",
+               "key" : "17D5DE0206C7D6E4"
+            }
+         } ],
+         "functionName" : {
+            "coType" : "model-core.lib.model.langdata",
+            "value" : "Examiner",
+            "translations" : {
+               "translation" : [ {
+                  "lang" : "de",
+                  "value" : "Prüfer*in"
+               }, {
+                  "lang" : "en",
+                  "value" : "Examiner"
+               }, {
+                  "lang" : "fr"
+               }, {
+                  "lang" : "it"
+               } ]
+            }
+         }
+      } ],
+      "examStart" : {
+         "coType" : "time",
+         "value" : "09:00:00"
+      },
+      "examType" : {
+         "coType" : "model-core.lib.model.langdata",
+         "value" : "subject examination",
+         "translations" : {
+            "translation" : [ {
+               "lang" : "de",
+               "value" : "Fachprüfung"
+            }, {
+               "lang" : "en",
+               "value" : "subject examination"
+            }, {
+               "lang" : "fr"
+            }, {
+               "lang" : "it"
+            } ]
+         }
+      },
+      "examTypeKey" : "F",
+      "id" : 1198437,
+      "identificationName" : "921710",
+      "maxNumberOfParticipants" : 9999,
+      "numberOfParticipants" : 19,
+      "organisationLibId" : 14688,
+      "organisationLibName" : {
+         "coType" : "model-core.lib.model.langdata",
+         "value" : "Chair of Biochemistry and Molecular Biology",
+         "translations" : {
+            "translation" : [ {
+               "lang" : "de",
+               "value" : "Institut und Lehrstuhl für Biochemie und Molekularbiologie"
+            }, {
+               "lang" : "en",
+               "value" : "Chair of Biochemistry and Molecular Biology"
+            }, {
+               "lang" : "fr"
+            }, {
+               "lang" : "it"
+            } ]
+         }
+      },
+      "preliminaryRegistration" : true,
+      "registrationDateEnd" : {
+         "coType" : "datetime",
+         "value" : "2025-12-31T23:59:00"
+      },
+      "registrationDateStart" : {
+         "coType" : "datetime",
+         "value" : "2025-12-01T00:00:00"
+      },
+      "showInformationMyStudy" : false
+   }, {
+      "courseId" : 541541,
+      "deRegistrationEnd" : {
+         "coType" : "datetime",
+         "value" : "2026-02-20T23:59:00"
+      },
+      "exExamPlanningComment" : "",
+      "exExamPlanningTools" : "",
+      "exExamPlanningType" : "",
+      "appointments" : [ {
+         "id" : 6388578,
+         "displayName" : "AH V (2356|050)",
+         "url" : {
+            "rel" : "related",
+            "href" : "https://online.rwth-aachen.de/RWTHonline/ee/rest/pages/slc.cp.apt/resource/9851"
+         },
+         "personalAppointment" : false
+      } ],
+      "courseIdentityCodeId" : 124304,
+      "courseLink" : {
+         "rel" : "detail",
+         "href" : "https://online.rwth-aachen.de/RWTHonline/pages/slc.tm.cp/course/541541",
+         "type" : "text/html",
+         "name" : "CpCourseLibDto",
+         "key" : "541541"
+      },
+      "courseName" : {
+         "coType" : "model-core.lib.model.langdata",
+         "value" : "Complexity Theory",
+         "translations" : {
+            "translation" : [ {
+               "lang" : "de",
+               "value" : "Komplexitätstheorie"
+            }, {
+               "lang" : "en",
+               "value" : "Complexity Theory"
+            }, {
+               "lang" : "fr"
+            }, {
+               "lang" : "it"
+            } ]
+         }
+      },
+      "courseSemesterId" : 293,
+      "courseSemesterShortName" : {
+         "coType" : "model-core.lib.model.langdata",
+         "value" : "2025 W",
+         "translations" : {
+            "translation" : [ {
+               "lang" : "de",
+               "value" : "2025 W"
+            }, {
+               "lang" : "en"
+            }, {
+               "lang" : "fr"
+            }, {
+               "lang" : "it"
+            } ]
+         }
+      },
+      "displayCourseNumber" : "12.PV00001",
+      "examDate" : {
+         "coType" : "date",
+         "value" : "2026-02-24"
+      },
+      "examDateInformation" : "Ersttermin, zentral geplant",
+      "examEnd" : {
+         "coType" : "time",
+         "value" : "16:30:00"
+      },
+      "examPersons" : [ {
+         "identities" : [ {
+            "id" : 59728,
+            "personId" : 59728,
+            "obfuscated" : "F8F669165FDE57D1",
+            "firstName" : "Martin",
+            "lastName" : "Grohe",
+            "gender" : "MALE",
+            "genderNrForTitle" : 1,
+            "businessCardLink" : {
+               "rel" : "related",
+               "href" : "https://online.rwth-aachen.de/RWTHonline/ee/rest/pages/brm.pm.bc/business-card/F8F669165FDE57D1",
+               "name" : "IdentityLibDto",
+               "key" : "F8F669165FDE57D1"
+            }
+         } ],
+         "functionName" : {
+            "coType" : "model-core.lib.model.langdata",
+            "value" : "Examiner",
+            "translations" : {
+               "translation" : [ {
+                  "lang" : "de",
+                  "value" : "Prüfer*in"
+               }, {
+                  "lang" : "en",
+                  "value" : "Examiner"
+               }, {
+                  "lang" : "fr"
+               }, {
+                  "lang" : "it"
+               } ]
+            }
+         }
+      } ],
+      "examStart" : {
+         "coType" : "time",
+         "value" : "14:30:00"
+      },
+      "examType" : {
+         "coType" : "model-core.lib.model.langdata",
+         "value" : "subject examination",
+         "translations" : {
+            "translation" : [ {
+               "lang" : "de",
+               "value" : "Fachprüfung"
+            }, {
+               "lang" : "en",
+               "value" : "subject examination"
+            }, {
+               "lang" : "fr"
+            }, {
+               "lang" : "it"
+            } ]
+         }
+      },
+      "examTypeKey" : "F",
+      "id" : 1201772,
+      "identificationName" : "122910",
+      "maxNumberOfParticipants" : 9999,
+      "numberOfParticipants" : 33,
+      "organisationLibId" : 14218,
+      "organisationLibName" : {
+         "coType" : "model-core.lib.model.langdata",
+         "value" : "Chair of Logic and Theory of Discrete Systems (Computer Science 7)",
+         "translations" : {
+            "translation" : [ {
+               "lang" : "de",
+               "value" : "Lehrstuhl für Logik und Theorie diskreter Systeme (Informatik 7)"
+            }, {
+               "lang" : "en",
+               "value" : "Chair of Logic and Theory of Discrete Systems (Computer Science 7)"
+            }, {
+               "lang" : "fr"
+            }, {
+               "lang" : "it"
+            } ]
+         }
+      },
+      "preliminaryRegistration" : false,
+      "registrationDateEnd" : {
+         "coType" : "datetime",
+         "value" : "2026-01-15T23:59:00"
+      },
+      "registrationDateStart" : {
+         "coType" : "datetime",
+         "value" : "2025-11-15T00:00:00"
+      },
+      "showInformationMyStudy" : false
+   }, {
+      "courseId" : 538284,
+      "deRegistrationEnd" : {
+         "coType" : "datetime",
+         "value" : "2026-02-20T23:59:00"
+      },
+      "exExamPlanningComment" : "",
+      "exExamPlanningTools" : "",
+      "exExamPlanningType" : "",
+      "appointments" : [ {
+         "id" : 6379160,
+         "displayName" : "2165|225",
+         "url" : {
+            "rel" : "related",
+            "href" : "https://online.rwth-aachen.de/RWTHonline/ee/rest/pages/slc.cp.apt/resource/17827"
+         },
+         "personalAppointment" : false
+      } ],
+      "courseIdentityCodeId" : 114420,
+      "courseLink" : {
+         "rel" : "detail",
+         "href" : "https://online.rwth-aachen.de/RWTHonline/pages/slc.tm.cp/course/538284",
+         "type" : "text/html",
+         "name" : "CpCourseLibDto",
+         "key" : "538284"
+      },
+      "courseName" : {
+         "coType" : "model-core.lib.model.langdata",
+         "value" : "Computer Science Education: Heterogeneity and Adaptive Teaching",
+         "translations" : {
+            "translation" : [ {
+               "lang" : "de",
+               "value" : "Fachdidaktik Informatik: Heterogenität und adaptiver Unterricht"
+            }, {
+               "lang" : "en",
+               "value" : "Computer Science Education: Heterogeneity and Adaptive Teaching"
+            }, {
+               "lang" : "fr"
+            }, {
+               "lang" : "it"
+            } ]
+         }
+      },
+      "courseSemesterId" : 293,
+      "courseSemesterShortName" : {
+         "coType" : "model-core.lib.model.langdata",
+         "value" : "2025 W",
+         "translations" : {
+            "translation" : [ {
+               "lang" : "de",
+               "value" : "2025 W"
+            }, {
+               "lang" : "en"
+            }, {
+               "lang" : "fr"
+            }, {
+               "lang" : "it"
+            } ]
+         }
+      },
+      "displayCourseNumber" : "12.24202",
+      "examDate" : {
+         "coType" : "date",
+         "value" : "2026-02-24"
+      },
+      "examEnd" : {
+         "coType" : "time",
+         "value" : "09:45:00"
+      },
+      "examPersons" : [ {
+         "identities" : [ {
+            "id" : 57834,
+            "personId" : 57834,
+            "obfuscated" : "82D30AA51BF4EFA5",
+            "firstName" : "Nadine",
+            "lastName" : "Bergner",
+            "gender" : "FEMALE",
+            "genderNrForTitle" : 2,
+            "businessCardLink" : {
+               "rel" : "related",
+               "href" : "https://online.rwth-aachen.de/RWTHonline/ee/rest/pages/brm.pm.bc/business-card/82D30AA51BF4EFA5",
+               "name" : "IdentityLibDto",
+               "key" : "82D30AA51BF4EFA5"
+            }
+         } ],
+         "functionName" : {
+            "coType" : "model-core.lib.model.langdata",
+            "value" : "Examiner",
+            "translations" : {
+               "translation" : [ {
+                  "lang" : "de",
+                  "value" : "Prüfer*in"
+               }, {
+                  "lang" : "en",
+                  "value" : "Examiner"
+               }, {
+                  "lang" : "fr"
+               }, {
+                  "lang" : "it"
+               } ]
+            }
+         }
+      } ],
+      "examStart" : {
+         "coType" : "time",
+         "value" : "09:00:00"
+      },
+      "examType" : {
+         "coType" : "model-core.lib.model.langdata",
+         "value" : "subject examination",
+         "translations" : {
+            "translation" : [ {
+               "lang" : "de",
+               "value" : "Fachprüfung"
+            }, {
+               "lang" : "en",
+               "value" : "subject examination"
+            }, {
+               "lang" : "fr"
+            }, {
+               "lang" : "it"
+            } ]
+         }
+      },
+      "examTypeKey" : "F",
+      "id" : 1217922,
+      "identificationName" : "126220",
+      "maxNumberOfParticipants" : 1,
+      "numberOfParticipants" : 1,
+      "organisationLibId" : 19784,
+      "organisationLibName" : {
+         "coType" : "model-core.lib.model.langdata",
+         "value" : "Computer Science Education Teaching and Research Unit",
+         "translations" : {
+            "translation" : [ {
+               "lang" : "de",
+               "value" : "Lehr- und Forschungsgebiet Didaktik der Informatik"
+            }, {
+               "lang" : "en",
+               "value" : "Computer Science Education Teaching and Research Unit"
+            }, {
+               "lang" : "fr"
+            }, {
+               "lang" : "it"
+            } ]
+         }
+      },
+      "preliminaryRegistration" : false,
+      "registrationDateEnd" : {
+         "coType" : "datetime",
+         "value" : "2026-01-31T23:55:00"
+      },
+      "registrationDateStart" : {
+         "coType" : "datetime",
+         "value" : "2025-11-15T00:00:00"
+      },
+      "showInformationMyStudy" : false
+   }, {
+      "courseId" : 540637,
+      "deRegistrationEnd" : {
+         "coType" : "datetime",
+         "value" : "2026-02-20T23:59:00"
+      },
+      "exExamPlanningComment" : "",
+      "exExamPlanningTools" : "",
+      "exExamPlanningType" : "",
+      "appointments" : [ {
+         "id" : 6109391,
+         "displayName" : "H07 (1385|104)",
+         "url" : {
+            "rel" : "related",
+            "href" : "https://online.rwth-aachen.de/RWTHonline/ee/rest/pages/slc.cp.apt/resource/26147"
+         },
+         "personalAppointment" : false
+      } ],
+      "courseIdentityCodeId" : 116726,
+      "courseLink" : {
+         "rel" : "detail",
+         "href" : "https://online.rwth-aachen.de/RWTHonline/pages/slc.tm.cp/course/540637",
+         "type" : "text/html",
+         "name" : "CpCourseLibDto",
+         "key" : "540637"
+      },
+      "courseName" : {
+         "coType" : "model-core.lib.model.langdata",
+         "value" : "Corrosion and Corrosion Protection",
+         "translations" : {
+            "translation" : [ {
+               "lang" : "de",
+               "value" : "Kurs: Korrosion und Korrosionsschutz"
+            }, {
+               "lang" : "en",
+               "value" : "Corrosion and Corrosion Protection"
+            }, {
+               "lang" : "fr"
+            }, {
+               "lang" : "it"
+            } ]
+         }
+      },
+      "courseSemesterId" : 293,
+      "courseSemesterShortName" : {
+         "coType" : "model-core.lib.model.langdata",
+         "value" : "2025 W",
+         "translations" : {
+            "translation" : [ {
+               "lang" : "de",
+               "value" : "2025 W"
+            }, {
+               "lang" : "en"
+            }, {
+               "lang" : "fr"
+            }, {
+               "lang" : "it"
+            } ]
+         }
+      },
+      "displayCourseNumber" : "52.PV22999",
+      "examDate" : {
+         "coType" : "date",
+         "value" : "2026-02-24"
+      },
+      "examDateInformation" : "Ersttermin, zentral geplant",
+      "examEnd" : {
+         "coType" : "time",
+         "value" : "11:00:00"
+      },
+      "examPersons" : [ {
+         "identities" : [ {
+            "id" : 57893,
+            "personId" : 57893,
+            "obfuscated" : "52E40E1ABEBDA892",
+            "firstName" : "Brita Daniela",
+            "lastName" : "Zander",
+            "gender" : "FEMALE",
+            "genderNrForTitle" : 2,
+            "businessCardLink" : {
+               "rel" : "related",
+               "href" : "https://online.rwth-aachen.de/RWTHonline/ee/rest/pages/brm.pm.bc/business-card/52E40E1ABEBDA892",
+               "name" : "IdentityLibDto",
+               "key" : "52E40E1ABEBDA892"
+            }
+         } ],
+         "functionName" : {
+            "coType" : "model-core.lib.model.langdata",
+            "value" : "Examiner",
+            "translations" : {
+               "translation" : [ {
+                  "lang" : "de",
+                  "value" : "Prüfer*in"
+               }, {
+                  "lang" : "en",
+                  "value" : "Examiner"
+               }, {
+                  "lang" : "fr"
+               }, {
+                  "lang" : "it"
+               } ]
+            }
+         }
+      } ],
+      "examStart" : {
+         "coType" : "time",
+         "value" : "09:00:00"
+      },
+      "examType" : {
+         "coType" : "model-core.lib.model.langdata",
+         "value" : "subject examination",
+         "translations" : {
+            "translation" : [ {
+               "lang" : "de",
+               "value" : "Fachprüfung"
+            }, {
+               "lang" : "en",
+               "value" : "subject examination"
+            }, {
+               "lang" : "fr"
+            }, {
+               "lang" : "it"
+            } ]
+         }
+      },
+      "examTypeKey" : "F",
+      "id" : 1196805,
+      "identificationName" : "522710",
+      "maxNumberOfParticipants" : 9999,
+      "numberOfParticipants" : 2,
+      "organisationLibId" : 14508,
+      "organisationLibName" : {
+         "coType" : "model-core.lib.model.langdata",
+         "value" : "Chair of Corrosion and Corrosion Protection",
+         "translations" : {
+            "translation" : [ {
+               "lang" : "de",
+               "value" : "Lehrstuhl für Korrosion und Korrosionsschutz"
+            }, {
+               "lang" : "en",
+               "value" : "Chair of Corrosion and Corrosion Protection"
+            }, {
+               "lang" : "fr"
+            }, {
+               "lang" : "it"
+            } ]
+         }
+      },
+      "preliminaryRegistration" : true,
+      "registrationDateEnd" : {
+         "coType" : "datetime",
+         "value" : "2026-01-15T23:59:00"
+      },
+      "registrationDateStart" : {
+         "coType" : "datetime",
+         "value" : "2025-11-15T00:00:00"
+      },
+      "showInformationMyStudy" : false
+   }, {
+      "courseId" : 575501,
+      "deRegistrationEnd" : {
+         "coType" : "datetime",
+         "value" : "2026-02-20T23:59:00"
+      },
+      "exExamPlanningComment" : "",
+      "exExamPlanningTools" : "",
+      "exExamPlanningType" : "",
+      "appointments" : [ {
+         "id" : 6118940,
+         "displayName" : "H07 (1385|104)",
+         "url" : {
+            "rel" : "related",
+            "href" : "https://online.rwth-aachen.de/RWTHonline/ee/rest/pages/slc.cp.apt/resource/26147"
+         },
+         "personalAppointment" : false
+      } ],
+      "courseIdentityCodeId" : 192055,
+      "courseLink" : {
+         "rel" : "detail",
+         "href" : "https://online.rwth-aachen.de/RWTHonline/pages/slc.tm.cp/course/575501",
+         "type" : "text/html",
+         "name" : "CpCourseLibDto",
+         "key" : "575501"
+      },
+      "courseName" : {
+         "coType" : "model-core.lib.model.langdata",
+         "value" : "Corrosion and corrosion protection (NWT M.Sc.)",
+         "translations" : {
+            "translation" : [ {
+               "lang" : "de",
+               "value" : "Korrosion und Korrosionsschutz (NWT M.Sc.)"
+            }, {
+               "lang" : "en",
+               "value" : "Corrosion and corrosion protection (NWT M.Sc.)"
+            }, {
+               "lang" : "fr"
+            }, {
+               "lang" : "it"
+            } ]
+         }
+      },
+      "courseSemesterId" : 293,
+      "courseSemesterShortName" : {
+         "coType" : "model-core.lib.model.langdata",
+         "value" : "2025 W",
+         "translations" : {
+            "translation" : [ {
+               "lang" : "de",
+               "value" : "2025 W"
+            }, {
+               "lang" : "en"
+            }, {
+               "lang" : "fr"
+            }, {
+               "lang" : "it"
+            } ]
+         }
+      },
+      "displayCourseNumber" : "52.PV00154",
+      "examDate" : {
+         "coType" : "date",
+         "value" : "2026-02-24"
+      },
+      "examDateInformation" : "Ersttermin, zentral geplant",
+      "examEnd" : {
+         "coType" : "time",
+         "value" : "11:00:00"
+      },
+      "examPersons" : [ {
+         "identities" : [ {
+            "id" : 57893,
+            "personId" : 57893,
+            "obfuscated" : "52E40E1ABEBDA892",
+            "firstName" : "Brita Daniela",
+            "lastName" : "Zander",
+            "gender" : "FEMALE",
+            "genderNrForTitle" : 2,
+            "businessCardLink" : {
+               "rel" : "related",
+               "href" : "https://online.rwth-aachen.de/RWTHonline/ee/rest/pages/brm.pm.bc/business-card/52E40E1ABEBDA892",
+               "name" : "IdentityLibDto",
+               "key" : "52E40E1ABEBDA892"
+            }
+         } ],
+         "functionName" : {
+            "coType" : "model-core.lib.model.langdata",
+            "value" : "Examiner",
+            "translations" : {
+               "translation" : [ {
+                  "lang" : "de",
+                  "value" : "Prüfer*in"
+               }, {
+                  "lang" : "en",
+                  "value" : "Examiner"
+               }, {
+                  "lang" : "fr"
+               }, {
+                  "lang" : "it"
+               } ]
+            }
+         }
+      } ],
+      "examStart" : {
+         "coType" : "time",
+         "value" : "09:00:00"
+      },
+      "examType" : {
+         "coType" : "model-core.lib.model.langdata",
+         "value" : "subject examination",
+         "translations" : {
+            "translation" : [ {
+               "lang" : "de",
+               "value" : "Fachprüfung"
+            }, {
+               "lang" : "en",
+               "value" : "subject examination"
+            }, {
+               "lang" : "fr"
+            }, {
+               "lang" : "it"
+            } ]
+         }
+      },
+      "examTypeKey" : "F",
+      "id" : 1211093,
+      "identificationName" : "522710",
+      "maxNumberOfParticipants" : 9999,
+      "numberOfParticipants" : 1,
+      "organisationLibId" : 14508,
+      "organisationLibName" : {
+         "coType" : "model-core.lib.model.langdata",
+         "value" : "Chair of Corrosion and Corrosion Protection",
+         "translations" : {
+            "translation" : [ {
+               "lang" : "de",
+               "value" : "Lehrstuhl für Korrosion und Korrosionsschutz"
+            }, {
+               "lang" : "en",
+               "value" : "Chair of Corrosion and Corrosion Protection"
+            }, {
+               "lang" : "fr"
+            }, {
+               "lang" : "it"
+            } ]
+         }
+      },
+      "preliminaryRegistration" : true,
+      "registrationDateEnd" : {
+         "coType" : "datetime",
+         "value" : "2026-01-15T23:55:00"
+      },
+      "registrationDateStart" : {
+         "coType" : "datetime",
+         "value" : "2025-11-15T00:00:00"
+      },
+      "showInformationMyStudy" : false
+   }, {
+      "courseId" : 544843,
+      "deRegistrationEnd" : {
+         "coType" : "datetime",
+         "value" : "2026-02-20T23:59:00"
+      },
+      "exExamPlanningComment" : "",
+      "exExamPlanningTools" : "",
+      "exExamPlanningType" : "",
+      "appointments" : [ {
+         "id" : 6063702,
+         "displayName" : "ZuseLab S1 (2315|203)",
+         "url" : {
+            "rel" : "related",
+            "href" : "https://online.rwth-aachen.de/RWTHonline/ee/rest/pages/slc.cp.apt/resource/10045"
+         },
+         "personalAppointment" : false
+      } ],
+      "courseIdentityCodeId" : 153365,
+      "courseLink" : {
+         "rel" : "detail",
+         "href" : "https://online.rwth-aachen.de/RWTHonline/pages/slc.tm.cp/course/544843",
+         "type" : "text/html",
+         "name" : "CpCourseLibDto",
+         "key" : "544843"
+      },
+      "courseName" : {
+         "coType" : "model-core.lib.model.langdata",
+         "value" : "Disruptive Battery Technologies and Innovation",
+         "translations" : {
+            "translation" : [ {
+               "lang" : "de",
+               "value" : "Disruptive Battery Technologies and Innovation"
+            }, {
+               "lang" : "en",
+               "value" : "Disruptive Battery Technologies and Innovation"
+            }, {
+               "lang" : "fr"
+            }, {
+               "lang" : "it"
+            } ]
+         }
+      },
+      "courseSemesterId" : 293,
+      "courseSemesterShortName" : {
+         "coType" : "model-core.lib.model.langdata",
+         "value" : "2025 W",
+         "translations" : {
+            "translation" : [ {
+               "lang" : "de",
+               "value" : "2025 W"
+            }, {
+               "lang" : "en"
+            }, {
+               "lang" : "fr"
+            }, {
+               "lang" : "it"
+            } ]
+         }
+      },
+      "displayCourseNumber" : "61.PV56438",
+      "examDate" : {
+         "coType" : "date",
+         "value" : "2026-02-24"
+      },
+      "examDateInformation" : "Ersttermin, zentral geplant",
+      "examEnd" : {
+         "coType" : "time",
+         "value" : "16:00:00"
+      },
+      "examPersons" : [ {
+         "identities" : [ {
+            "id" : 60808,
+            "personId" : 60808,
+            "obfuscated" : "058C936788E40D38",
+            "firstName" : "Egbert Franz",
+            "lastName" : "Figgemeier",
+            "gender" : "MALE",
+            "genderNrForTitle" : 1,
+            "businessCardLink" : {
+               "rel" : "related",
+               "href" : "https://online.rwth-aachen.de/RWTHonline/ee/rest/pages/brm.pm.bc/business-card/058C936788E40D38",
+               "name" : "IdentityLibDto",
+               "key" : "058C936788E40D38"
+            }
+         } ],
+         "functionName" : {
+            "coType" : "model-core.lib.model.langdata",
+            "value" : "Examiner",
+            "translations" : {
+               "translation" : [ {
+                  "lang" : "de",
+                  "value" : "Prüfer*in"
+               }, {
+                  "lang" : "en",
+                  "value" : "Examiner"
+               }, {
+                  "lang" : "fr"
+               }, {
+                  "lang" : "it"
+               } ]
+            }
+         }
+      } ],
+      "examStart" : {
+         "coType" : "time",
+         "value" : "14:30:00"
+      },
+      "examType" : {
+         "coType" : "model-core.lib.model.langdata",
+         "value" : "subject examination",
+         "translations" : {
+            "translation" : [ {
+               "lang" : "de",
+               "value" : "Fachprüfung"
+            }, {
+               "lang" : "en",
+               "value" : "subject examination"
+            }, {
+               "lang" : "fr"
+            }, {
+               "lang" : "it"
+            } ]
+         }
+      },
+      "examTypeKey" : "F",
+      "id" : 1198720,
+      "identificationName" : "618620",
+      "maxNumberOfParticipants" : 9999,
+      "numberOfParticipants" : 20,
+      "organisationLibId" : 15229,
+      "organisationLibName" : {
+         "coType" : "model-core.lib.model.langdata",
+         "value" : "Battery Aging Process and Lifetime Prediction Teaching and Research Area",
+         "translations" : {
+            "translation" : [ {
+               "lang" : "de",
+               "value" : "Lehr- und Forschungsgebiet für Alterungsprozesse und Lebensdauerprognose von Batterien"
+            }, {
+               "lang" : "en",
+               "value" : "Battery Aging Process and Lifetime Prediction Teaching and Research Area"
+            }, {
+               "lang" : "fr"
+            }, {
+               "lang" : "it"
+            } ]
+         }
+      },
+      "preliminaryRegistration" : false,
+      "registrationDateEnd" : {
+         "coType" : "datetime",
+         "value" : "2026-01-15T23:59:00"
+      },
+      "registrationDateStart" : {
+         "coType" : "datetime",
+         "value" : "2025-11-15T00:00:00"
+      },
+      "showInformationMyStudy" : false
+   }, {
+      "courseId" : 545032,
+      "deRegistrationEnd" : {
+         "coType" : "datetime",
+         "value" : "2026-02-20T23:59:00"
+      },
+      "exExamPlanningComment" : "",
+      "exExamPlanningTools" : "",
+      "exExamPlanningType" : "",
+      "appointments" : [ {
+         "id" : 6317321,
+         "displayName" : "B057 (3011|057)",
+         "url" : {
+            "rel" : "related",
+            "href" : "https://online.rwth-aachen.de/RWTHonline/ee/rest/pages/slc.cp.apt/resource/9176"
+         },
+         "personalAppointment" : false
+      } ],
+      "courseIdentityCodeId" : 183840,
+      "courseLink" : {
+         "rel" : "detail",
+         "href" : "https://online.rwth-aachen.de/RWTHonline/pages/slc.tm.cp/course/545032",
+         "type" : "text/html",
+         "name" : "CpCourseLibDto",
+         "key" : "545032"
+      },
+      "courseName" : {
+         "coType" : "model-core.lib.model.langdata",
+         "value" : "Earthquake Engineering",
+         "translations" : {
+            "translation" : [ {
+               "lang" : "de",
+               "value" : "Earthquake Engineering"
+            }, {
+               "lang" : "en",
+               "value" : "Earthquake Engineering"
+            }, {
+               "lang" : "fr"
+            }, {
+               "lang" : "it"
+            } ]
+         }
+      },
+      "courseSemesterId" : 293,
+      "courseSemesterShortName" : {
+         "coType" : "model-core.lib.model.langdata",
+         "value" : "2025 W",
+         "translations" : {
+            "translation" : [ {
+               "lang" : "de",
+               "value" : "2025 W"
+            }, {
+               "lang" : "en"
+            }, {
+               "lang" : "fr"
+            }, {
+               "lang" : "it"
+            } ]
+         }
+      },
+      "displayCourseNumber" : "05.PV00074",
+      "examDate" : {
+         "coType" : "date",
+         "value" : "2026-02-24"
+      },
+      "examEnd" : {
+         "coType" : "time",
+         "value" : "10:30:00"
+      },
+      "examPersons" : [ {
+         "identities" : [ {
+            "id" : 50450,
+            "personId" : 50450,
+            "obfuscated" : "6B354CEBAE4A02D7",
+            "firstName" : "Sven Oliver",
+            "lastName" : "Klinkel",
+            "gender" : "MALE",
+            "genderNrForTitle" : 1,
+            "businessCardLink" : {
+               "rel" : "related",
+               "href" : "https://online.rwth-aachen.de/RWTHonline/ee/rest/pages/brm.pm.bc/business-card/6B354CEBAE4A02D7",
+               "name" : "IdentityLibDto",
+               "key" : "6B354CEBAE4A02D7"
+            }
+         } ],
+         "functionName" : {
+            "coType" : "model-core.lib.model.langdata",
+            "value" : "Examiner",
+            "translations" : {
+               "translation" : [ {
+                  "lang" : "de",
+                  "value" : "Prüfer*in"
+               }, {
+                  "lang" : "en",
+                  "value" : "Examiner"
+               }, {
+                  "lang" : "fr"
+               }, {
+                  "lang" : "it"
+               } ]
+            }
+         }
+      }, {
+         "identities" : [ {
+            "id" : -71890,
+            "personId" : 77901,
+            "obfuscated" : "94972873E54AF039",
+            "firstName" : "Bjorn Maria Gerardus",
+            "lastName" : "Sauren",
+            "gender" : "MALE",
+            "genderNrForTitle" : 1,
+            "businessCardLink" : {
+               "rel" : "related",
+               "href" : "https://online.rwth-aachen.de/RWTHonline/ee/rest/pages/brm.pm.bc/business-card/94972873E54AF039",
+               "name" : "IdentityLibDto",
+               "key" : "94972873E54AF039"
+            }
+         } ],
+         "functionName" : {
+            "coType" : "model-core.lib.model.langdata",
+            "value" : "Further Examiners",
+            "translations" : {
+               "translation" : [ {
+                  "lang" : "de",
+                  "value" : "Weitere Prüfer*innen"
+               }, {
+                  "lang" : "en",
+                  "value" : "Further Examiners"
+               }, {
+                  "lang" : "fr"
+               }, {
+                  "lang" : "it"
+               } ]
+            }
+         }
+      } ],
+      "examStart" : {
+         "coType" : "time",
+         "value" : "09:30:00"
+      },
+      "examType" : {
+         "coType" : "model-core.lib.model.langdata",
+         "value" : "subject examination",
+         "translations" : {
+            "translation" : [ {
+               "lang" : "de",
+               "value" : "Fachprüfung"
+            }, {
+               "lang" : "en",
+               "value" : "subject examination"
+            }, {
+               "lang" : "fr"
+            }, {
+               "lang" : "it"
+            } ]
+         }
+      },
+      "examTypeKey" : "F",
+      "id" : 1211859,
+      "identificationName" : "051300",
+      "maxNumberOfParticipants" : 9999,
+      "numberOfParticipants" : 10,
+      "organisationLibId" : 14823,
+      "organisationLibName" : {
+         "coType" : "model-core.lib.model.langdata",
+         "value" : "RWTH International Academy gGmbH",
+         "translations" : {
+            "translation" : [ {
+               "lang" : "de",
+               "value" : "RWTH International Academy gGmbH"
+            }, {
+               "lang" : "en",
+               "value" : "RWTH International Academy gGmbH"
+            }, {
+               "lang" : "fr"
+            }, {
+               "lang" : "it"
+            } ]
+         }
+      },
+      "preliminaryRegistration" : false,
+      "registrationDateEnd" : {
+         "coType" : "datetime",
+         "value" : "2026-02-20T23:55:00"
+      },
+      "registrationDateStart" : {
+         "coType" : "datetime",
+         "value" : "2025-11-15T00:00:00"
+      },
+      "showInformationMyStudy" : false
+   }, {
+      "courseId" : 543087,
+      "deRegistrationEnd" : {
+         "coType" : "datetime",
+         "value" : "2026-02-20T23:59:00"
+      },
+      "exExamPlanningComment" : "",
+      "exExamPlanningTools" : "",
+      "exExamPlanningType" : "",
+      "appointments" : [ {
+         "id" : 6062750,
+         "displayName" : "H01 (1385|101)",
+         "url" : {
+            "rel" : "related",
+            "href" : "https://online.rwth-aachen.de/RWTHonline/ee/rest/pages/slc.cp.apt/resource/26151"
+         },
+         "personalAppointment" : false
+      }, {
+         "id" : 6062753,
+         "displayName" : "Großer Hörsaal AM (1420|210)",
+         "url" : {
+            "rel" : "related",
+            "href" : "https://online.rwth-aachen.de/RWTHonline/ee/rest/pages/slc.cp.apt/resource/17052"
+         },
+         "personalAppointment" : false
+      } ],
+      "courseIdentityCodeId" : 159272,
+      "courseLink" : {
+         "rel" : "detail",
+         "href" : "https://online.rwth-aachen.de/RWTHonline/pages/slc.tm.cp/course/543087",
+         "type" : "text/html",
+         "name" : "CpCourseLibDto",
+         "key" : "543087"
+      },
+      "courseName" : {
+         "coType" : "model-core.lib.model.langdata",
+         "value" : "Exam_Cultural and Historical Basics_IV",
+         "translations" : {
+            "translation" : [ {
+               "lang" : "de",
+               "value" : "Prüfung Kulturelle und Historische Grundlagen IV"
+            }, {
+               "lang" : "en",
+               "value" : "Exam_Cultural and Historical Basics_IV"
+            }, {
+               "lang" : "fr"
+            }, {
+               "lang" : "it"
+            } ]
+         }
+      },
+      "courseSemesterId" : 293,
+      "courseSemesterShortName" : {
+         "coType" : "model-core.lib.model.langdata",
+         "value" : "2025 W",
+         "translations" : {
+            "translation" : [ {
+               "lang" : "de",
+               "value" : "2025 W"
+            }, {
+               "lang" : "en"
+            }, {
+               "lang" : "fr"
+            }, {
+               "lang" : "it"
+            } ]
+         }
+      },
+      "displayCourseNumber" : "20.PV00025",
+      "examDate" : {
+         "coType" : "date",
+         "value" : "2026-02-24"
+      },
+      "examDateInformation" : "Ersttermin, zentral geplant",
+      "examEnd" : {
+         "coType" : "time",
+         "value" : "16:00:00"
+      },
+      "examPersons" : [ {
+         "identities" : [ {
+            "id" : 60181,
+            "personId" : 60181,
+            "obfuscated" : "5EBFCDC104F79DDC",
+            "firstName" : "Axel",
+            "lastName" : "Sowa",
+            "gender" : "MALE",
+            "genderNrForTitle" : 1,
+            "businessCardLink" : {
+               "rel" : "related",
+               "href" : "https://online.rwth-aachen.de/RWTHonline/ee/rest/pages/brm.pm.bc/business-card/5EBFCDC104F79DDC",
+               "name" : "IdentityLibDto",
+               "key" : "5EBFCDC104F79DDC"
+            }
+         } ],
+         "functionName" : {
+            "coType" : "model-core.lib.model.langdata",
+            "value" : "Examiner",
+            "translations" : {
+               "translation" : [ {
+                  "lang" : "de",
+                  "value" : "Prüfer*in"
+               }, {
+                  "lang" : "en",
+                  "value" : "Examiner"
+               }, {
+                  "lang" : "fr"
+               }, {
+                  "lang" : "it"
+               } ]
+            }
+         }
+      } ],
+      "examStart" : {
+         "coType" : "time",
+         "value" : "14:30:00"
+      },
+      "examType" : {
+         "coType" : "model-core.lib.model.langdata",
+         "value" : "subject examination",
+         "translations" : {
+            "translation" : [ {
+               "lang" : "de",
+               "value" : "Fachprüfung"
+            }, {
+               "lang" : "en",
+               "value" : "subject examination"
+            }, {
+               "lang" : "fr"
+            }, {
+               "lang" : "it"
+            } ]
+         }
+      },
+      "examTypeKey" : "F",
+      "id" : 1195689,
+      "identificationName" : "212820",
+      "maxNumberOfParticipants" : 9999,
+      "numberOfParticipants" : 4,
+      "organisationLibId" : 14369,
+      "organisationLibName" : {
+         "coType" : "model-core.lib.model.langdata",
+         "value" : "Theory of Architecture Department",
+         "translations" : {
+            "translation" : [ {
+               "lang" : "de",
+               "value" : "Lehr- und Forschungsgebiet Architekturtheorie"
+            }, {
+               "lang" : "en",
+               "value" : "Theory of Architecture Department"
+            }, {
+               "lang" : "fr"
+            }, {
+               "lang" : "it"
+            } ]
+         }
+      },
+      "preliminaryRegistration" : false,
+      "registrationDateEnd" : {
+         "coType" : "datetime",
+         "value" : "2026-02-10T23:59:00"
+      },
+      "registrationDateStart" : {
+         "coType" : "datetime",
+         "value" : "2025-11-15T00:00:00"
+      },
+      "showInformationMyStudy" : false
+   }, {
+      "courseId" : 541364,
+      "deRegistrationEnd" : {
+         "coType" : "datetime",
+         "value" : "2026-02-17T23:59:00"
+      },
+      "exExamPlanningComment" : "",
+      "exExamPlanningTools" : "",
+      "exExamPlanningType" : "",
+      "courseIdentityCodeId" : 159295,
+      "courseLink" : {
+         "rel" : "detail",
+         "href" : "https://online.rwth-aachen.de/RWTHonline/pages/slc.tm.cp/course/541364",
+         "type" : "text/html",
+         "name" : "CpCourseLibDto",
+         "key" : "541364"
+      },
+      "courseName" : {
+         "coType" : "model-core.lib.model.langdata",
+         "value" : "Exam_Design Studio M1_GBL",
+         "translations" : {
+            "translation" : [ {
+               "lang" : "de",
+               "value" : "Prüfung Projekt M1 - GBL"
+            }, {
+               "lang" : "en",
+               "value" : "Exam_Design Studio M1_GBL"
+            }, {
+               "lang" : "fr"
+            }, {
+               "lang" : "it"
+            } ]
+         }
+      },
+      "courseSemesterId" : 293,
+      "courseSemesterShortName" : {
+         "coType" : "model-core.lib.model.langdata",
+         "value" : "2025 W",
+         "translations" : {
+            "translation" : [ {
+               "lang" : "de",
+               "value" : "2025 W"
+            }, {
+               "lang" : "en"
+            }, {
+               "lang" : "fr"
+            }, {
+               "lang" : "it"
+            } ]
+         }
+      },
+      "displayCourseNumber" : "20.PV00420",
+      "examDate" : {
+         "coType" : "date",
+         "value" : "2026-02-24"
+      },
+      "examDateInformation" : "Worldmix",
+      "examEnd" : {
+         "coType" : "time",
+         "value" : "18:00:00"
+      },
+      "examPersons" : [ {
+         "identities" : [ {
+            "id" : 55964,
+            "personId" : 55964,
+            "obfuscated" : "9B7DE81B4DBDAA6A",
+            "firstName" : "Anna Marijke",
+            "lastName" : "Weber",
+            "gender" : "FEMALE",
+            "genderNrForTitle" : 2,
+            "businessCardLink" : {
+               "rel" : "related",
+               "href" : "https://online.rwth-aachen.de/RWTHonline/ee/rest/pages/brm.pm.bc/business-card/9B7DE81B4DBDAA6A",
+               "name" : "IdentityLibDto",
+               "key" : "9B7DE81B4DBDAA6A"
+            }
+         } ],
+         "functionName" : {
+            "coType" : "model-core.lib.model.langdata",
+            "value" : "Examiner",
+            "translations" : {
+               "translation" : [ {
+                  "lang" : "de",
+                  "value" : "Prüfer*in"
+               }, {
+                  "lang" : "en",
+                  "value" : "Examiner"
+               }, {
+                  "lang" : "fr"
+               }, {
+                  "lang" : "it"
+               } ]
+            }
+         }
+      } ],
+      "examStart" : {
+         "coType" : "time",
+         "value" : "09:00:00"
+      },
+      "examType" : {
+         "coType" : "model-core.lib.model.langdata",
+         "value" : "subject examination",
+         "translations" : {
+            "translation" : [ {
+               "lang" : "de",
+               "value" : "Fachprüfung"
+            }, {
+               "lang" : "en",
+               "value" : "subject examination"
+            }, {
+               "lang" : "fr"
+            }, {
+               "lang" : "it"
+            } ]
+         }
+      },
+      "examTypeKey" : "F",
+      "id" : 1210457,
+      "identificationName" : "213110",
+      "maxNumberOfParticipants" : 10,
+      "numberOfParticipants" : 10,
+      "organisationLibId" : 14370,
+      "organisationLibName" : {
+         "coType" : "model-core.lib.model.langdata",
+         "value" : "Chair of Building Typologies and Design Basics",
+         "translations" : {
+            "translation" : [ {
+               "lang" : "de",
+               "value" : "Lehrstuhl für Gebäudelehre und Grundlagen des Entwerfens und Institut für Schulbau"
+            }, {
+               "lang" : "en",
+               "value" : "Chair of Building Typologies and Design Basics"
+            }, {
+               "lang" : "fr"
+            }, {
+               "lang" : "it"
+            } ]
+         }
+      },
+      "preliminaryRegistration" : false,
+      "registrationDateEnd" : {
+         "coType" : "datetime",
+         "value" : "2026-02-17T23:55:00"
+      },
+      "registrationDateStart" : {
+         "coType" : "datetime",
+         "value" : "2025-11-15T00:00:00"
+      },
+      "showInformationMyStudy" : false
+   }, {
+      "courseId" : 586253,
+      "deRegistrationEnd" : {
+         "coType" : "datetime",
+         "value" : "2026-02-20T23:59:00"
+      },
+      "exExamPlanningComment" : "",
+      "exExamPlanningTools" : "",
+      "exExamPlanningType" : "",
+      "courseAdditionalInformation" : "The Architect Changemaker",
+      "courseIdentityCodeId" : 159297,
+      "courseLink" : {
+         "rel" : "detail",
+         "href" : "https://online.rwth-aachen.de/RWTHonline/pages/slc.tm.cp/course/586253",
+         "type" : "text/html",
+         "name" : "CpCourseLibDto",
+         "key" : "586253"
+      },
+      "courseName" : {
+         "coType" : "model-core.lib.model.langdata",
+         "value" : "Exam_Design Studio M2_Architecture - BAUKO_E",
+         "translations" : {
+            "translation" : [ {
+               "lang" : "de",
+               "value" : "Prüfung Projekt M2 Architektur - BAUKO_E"
+            }, {
+               "lang" : "en",
+               "value" : "Exam_Design Studio M2_Architecture - BAUKO_E"
+            }, {
+               "lang" : "fr"
+            }, {
+               "lang" : "it"
+            } ]
+         }
+      },
+      "courseSemesterId" : 293,
+      "courseSemesterShortName" : {
+         "coType" : "model-core.lib.model.langdata",
+         "value" : "2025 W",
+         "translations" : {
+            "translation" : [ {
+               "lang" : "de",
+               "value" : "2025 W"
+            }, {
+               "lang" : "en"
+            }, {
+               "lang" : "fr"
+            }, {
+               "lang" : "it"
+            } ]
+         }
+      },
+      "displayCourseNumber" : "20.PV00475",
+      "examDate" : {
+         "coType" : "date",
+         "value" : "2026-02-24"
+      },
+      "examDateInformation" : "aob downstairs 1080 + BAUKO Raum U118",
+      "examEnd" : {
+         "coType" : "time",
+         "value" : "16:30:00"
+      },
+      "examPersons" : [ {
+         "identities" : [ {
+            "id" : 104688,
+            "personId" : 104688,
+            "obfuscated" : "5FBF3C6256177D06",
+            "firstName" : "Laurens Frederik Francesco Maria Léonce",
+            "lastName" : "Bekemans",
+            "gender" : "MALE",
+            "genderNrForTitle" : 1,
+            "businessCardLink" : {
+               "rel" : "related",
+               "href" : "https://online.rwth-aachen.de/RWTHonline/ee/rest/pages/brm.pm.bc/business-card/5FBF3C6256177D06",
+               "name" : "IdentityLibDto",
+               "key" : "5FBF3C6256177D06"
+            }
+         } ],
+         "functionName" : {
+            "coType" : "model-core.lib.model.langdata",
+            "value" : "Examiner",
+            "translations" : {
+               "translation" : [ {
+                  "lang" : "de",
+                  "value" : "Prüfer*in"
+               }, {
+                  "lang" : "en",
+                  "value" : "Examiner"
+               }, {
+                  "lang" : "fr"
+               }, {
+                  "lang" : "it"
+               } ]
+            }
+         }
+      } ],
+      "examStart" : {
+         "coType" : "time",
+         "value" : "10:30:00"
+      },
+      "examType" : {
+         "coType" : "model-core.lib.model.langdata",
+         "value" : "subject examination",
+         "translations" : {
+            "translation" : [ {
+               "lang" : "de",
+               "value" : "Fachprüfung"
+            }, {
+               "lang" : "en",
+               "value" : "subject examination"
+            }, {
+               "lang" : "fr"
+            }, {
+               "lang" : "it"
+            } ]
+         }
+      },
+      "examTypeKey" : "F",
+      "id" : 1217737,
+      "identificationName" : "217530",
+      "maxNumberOfParticipants" : 9999,
+      "numberOfParticipants" : 15,
+      "organisationLibId" : 18722,
+      "organisationLibName" : {
+         "coType" : "model-core.lib.model.langdata",
+         "value" : "Junior Professor for Construction and Design",
+         "translations" : {
+            "translation" : [ {
+               "lang" : "de",
+               "value" : "Juniorprofessur für Baukonstruktion und Entwerfen"
+            }, {
+               "lang" : "en",
+               "value" : "Junior Professor for Construction and Design"
+            }, {
+               "lang" : "fr"
+            }, {
+               "lang" : "it"
+            } ]
+         }
+      },
+      "preliminaryRegistration" : false,
+      "registrationDateEnd" : {
+         "coType" : "datetime",
+         "value" : "2026-01-15T23:59:00"
+      },
+      "registrationDateStart" : {
+         "coType" : "datetime",
+         "value" : "2025-11-15T00:00:00"
+      },
+      "showInformationMyStudy" : false
+   }, {
+      "courseId" : 529841,
+      "deRegistrationEnd" : {
+         "coType" : "datetime",
+         "value" : "2026-02-17T23:59:00"
+      },
+      "exExamPlanningComment" : "",
+      "exExamPlanningTools" : "",
+      "exExamPlanningType" : "",
+      "courseIdentityCodeId" : 159242,
+      "courseLink" : {
+         "rel" : "detail",
+         "href" : "https://online.rwth-aachen.de/RWTHonline/pages/slc.tm.cp/course/529841",
+         "type" : "text/html",
+         "name" : "CpCourseLibDto",
+         "key" : "529841"
+      },
+      "courseName" : {
+         "coType" : "model-core.lib.model.langdata",
+         "value" : "Exam_Elective Design Studio_GBL",
+         "translations" : {
+            "translation" : [ {
+               "lang" : "de",
+               "value" : "Prüfung Projekt Freier Entwurf - GBL"
+            }, {
+               "lang" : "en",
+               "value" : "Exam_Elective Design Studio_GBL"
+            }, {
+               "lang" : "fr"
+            }, {
+               "lang" : "it"
+            } ]
+         }
+      },
+      "courseSemesterId" : 292,
+      "courseSemesterShortName" : {
+         "coType" : "model-core.lib.model.langdata",
+         "value" : "2025 S",
+         "translations" : {
+            "translation" : [ {
+               "lang" : "de",
+               "value" : "2025 S"
+            }, {
+               "lang" : "en"
+            }, {
+               "lang" : "fr"
+            }, {
+               "lang" : "it"
+            } ]
+         }
+      },
+      "displayCourseNumber" : "20.PV00162",
+      "examDate" : {
+         "coType" : "date",
+         "value" : "2026-02-24"
+      },
+      "examDateInformation" : "Worldmix",
+      "examEnd" : {
+         "coType" : "time",
+         "value" : "18:00:00"
+      },
+      "examPersons" : [ {
+         "identities" : [ {
+            "id" : 55964,
+            "personId" : 55964,
+            "obfuscated" : "9B7DE81B4DBDAA6A",
+            "firstName" : "Anna Marijke",
+            "lastName" : "Weber",
+            "gender" : "FEMALE",
+            "genderNrForTitle" : 2,
+            "businessCardLink" : {
+               "rel" : "related",
+               "href" : "https://online.rwth-aachen.de/RWTHonline/ee/rest/pages/brm.pm.bc/business-card/9B7DE81B4DBDAA6A",
+               "name" : "IdentityLibDto",
+               "key" : "9B7DE81B4DBDAA6A"
+            }
+         } ],
+         "functionName" : {
+            "coType" : "model-core.lib.model.langdata",
+            "value" : "Examiner",
+            "translations" : {
+               "translation" : [ {
+                  "lang" : "de",
+                  "value" : "Prüfer*in"
+               }, {
+                  "lang" : "en",
+                  "value" : "Examiner"
+               }, {
+                  "lang" : "fr"
+               }, {
+                  "lang" : "it"
+               } ]
+            }
+         }
+      } ],
+      "examStart" : {
+         "coType" : "time",
+         "value" : "09:00:00"
+      },
+      "examType" : {
+         "coType" : "model-core.lib.model.langdata",
+         "value" : "subject examination",
+         "translations" : {
+            "translation" : [ {
+               "lang" : "de",
+               "value" : "Fachprüfung"
+            }, {
+               "lang" : "en",
+               "value" : "subject examination"
+            }, {
+               "lang" : "fr"
+            }, {
+               "lang" : "it"
+            } ]
+         }
+      },
+      "examTypeKey" : "F",
+      "id" : 1210456,
+      "identificationName" : "213110",
+      "maxNumberOfParticipants" : 20,
+      "numberOfParticipants" : 16,
+      "organisationLibId" : 14370,
+      "organisationLibName" : {
+         "coType" : "model-core.lib.model.langdata",
+         "value" : "Chair of Building Typologies and Design Basics",
+         "translations" : {
+            "translation" : [ {
+               "lang" : "de",
+               "value" : "Lehrstuhl für Gebäudelehre und Grundlagen des Entwerfens und Institut für Schulbau"
+            }, {
+               "lang" : "en",
+               "value" : "Chair of Building Typologies and Design Basics"
+            }, {
+               "lang" : "fr"
+            }, {
+               "lang" : "it"
+            } ]
+         }
+      },
+      "preliminaryRegistration" : false,
+      "registrationDateEnd" : {
+         "coType" : "datetime",
+         "value" : "2026-02-17T23:59:00"
+      },
+      "registrationDateStart" : {
+         "coType" : "datetime",
+         "value" : "2025-05-15T00:00:00"
+      },
+      "showInformationMyStudy" : false
+   }, {
+      "courseId" : 541025,
+      "deRegistrationEnd" : {
+         "coType" : "datetime",
+         "value" : "2026-02-23T23:59:00"
+      },
+      "exExamPlanningComment" : "",
+      "exExamPlanningTools" : "",
+      "exExamPlanningType" : "",
+      "courseIdentityCodeId" : 159250,
+      "courseLink" : {
+         "rel" : "detail",
+         "href" : "https://online.rwth-aachen.de/RWTHonline/pages/slc.tm.cp/course/541025",
+         "type" : "text/html",
+         "name" : "CpCourseLibDto",
+         "key" : "541025"
+      },
+      "courseName" : {
+         "coType" : "model-core.lib.model.langdata",
+         "value" : "Exam_Integrated Project in City and Landscape_LA",
+         "translations" : {
+            "translation" : [ {
+               "lang" : "de",
+               "value" : "Prüfung Integriertes Projekt Stadt und Landschaft LA"
+            }, {
+               "lang" : "en",
+               "value" : "Exam_Integrated Project in City and Landscape_LA"
+            }, {
+               "lang" : "fr"
+            }, {
+               "lang" : "it"
+            } ]
+         }
+      },
+      "courseSemesterId" : 293,
+      "courseSemesterShortName" : {
+         "coType" : "model-core.lib.model.langdata",
+         "value" : "2025 W",
+         "translations" : {
+            "translation" : [ {
+               "lang" : "de",
+               "value" : "2025 W"
+            }, {
+               "lang" : "en"
+            }, {
+               "lang" : "fr"
+            }, {
+               "lang" : "it"
+            } ]
+         }
+      },
+      "displayCourseNumber" : "21.PV00688",
+      "examDate" : {
+         "coType" : "date",
+         "value" : "2026-02-24"
+      },
+      "examEnd" : {
+         "coType" : "time",
+         "value" : "15:00:00"
+      },
+      "examPersons" : [ {
+         "identities" : [ {
+            "id" : 57610,
+            "personId" : 57610,
+            "obfuscated" : "36C5034150DCC1BB",
+            "firstName" : "Frank",
+            "lastName" : "Lohrberg",
+            "gender" : "MALE",
+            "genderNrForTitle" : 1,
+            "businessCardLink" : {
+               "rel" : "related",
+               "href" : "https://online.rwth-aachen.de/RWTHonline/ee/rest/pages/brm.pm.bc/business-card/36C5034150DCC1BB",
+               "name" : "IdentityLibDto",
+               "key" : "36C5034150DCC1BB"
+            }
+         } ],
+         "functionName" : {
+            "coType" : "model-core.lib.model.langdata",
+            "value" : "Examiner",
+            "translations" : {
+               "translation" : [ {
+                  "lang" : "de",
+                  "value" : "Prüfer*in"
+               }, {
+                  "lang" : "en",
+                  "value" : "Examiner"
+               }, {
+                  "lang" : "fr"
+               }, {
+                  "lang" : "it"
+               } ]
+            }
+         }
+      } ],
+      "examStart" : {
+         "coType" : "time",
+         "value" : "10:00:00"
+      },
+      "examType" : {
+         "coType" : "model-core.lib.model.langdata",
+         "value" : "subject examination",
+         "translations" : {
+            "translation" : [ {
+               "lang" : "de",
+               "value" : "Fachprüfung"
+            }, {
+               "lang" : "en",
+               "value" : "subject examination"
+            }, {
+               "lang" : "fr"
+            }, {
+               "lang" : "it"
+            } ]
+         }
+      },
+      "examTypeKey" : "F",
+      "id" : 1195752,
+      "identificationName" : "214110",
+      "maxNumberOfParticipants" : 9999,
+      "numberOfParticipants" : 76,
+      "organisationLibId" : 14372,
+      "organisationLibName" : {
+         "coType" : "model-core.lib.model.langdata",
+         "value" : "Chair of Landscape Architecture",
+         "translations" : {
+            "translation" : [ {
+               "lang" : "de",
+               "value" : "Lehrstuhl für Landschaftsarchitektur"
+            }, {
+               "lang" : "en",
+               "value" : "Chair of Landscape Architecture"
+            }, {
+               "lang" : "fr"
+            }, {
+               "lang" : "it"
+            } ]
+         }
+      },
+      "preliminaryRegistration" : false,
+      "registrationDateEnd" : {
+         "coType" : "datetime",
+         "value" : "2026-02-17T23:59:00"
+      },
+      "registrationDateStart" : {
+         "coType" : "datetime",
+         "value" : "2020-05-01T00:00:00"
+      },
+      "showInformationMyStudy" : false
+   }, {
+      "courseId" : 541027,
+      "deRegistrationEnd" : {
+         "coType" : "datetime",
+         "value" : "2026-02-20T23:59:00"
+      },
+      "exExamPlanningComment" : "",
+      "exExamPlanningTools" : "",
+      "exExamPlanningType" : "",
+      "courseIdentityCodeId" : 159250,
+      "courseLink" : {
+         "rel" : "detail",
+         "href" : "https://online.rwth-aachen.de/RWTHonline/pages/slc.tm.cp/course/541027",
+         "type" : "text/html",
+         "name" : "CpCourseLibDto",
+         "key" : "541027"
+      },
+      "courseName" : {
+         "coType" : "model-core.lib.model.langdata",
+         "value" : "Exam_Integrated Project in City and Landscape_SB",
+         "translations" : {
+            "translation" : [ {
+               "lang" : "de",
+               "value" : "Prüfung Integriertes Projekt Stadt und Landschaft SB"
+            }, {
+               "lang" : "en",
+               "value" : "Exam_Integrated Project in City and Landscape_SB"
+            }, {
+               "lang" : "fr"
+            }, {
+               "lang" : "it"
+            } ]
+         }
+      },
+      "courseSemesterId" : 293,
+      "courseSemesterShortName" : {
+         "coType" : "model-core.lib.model.langdata",
+         "value" : "2025 W",
+         "translations" : {
+            "translation" : [ {
+               "lang" : "de",
+               "value" : "2025 W"
+            }, {
+               "lang" : "en"
+            }, {
+               "lang" : "fr"
+            }, {
+               "lang" : "it"
+            } ]
+         }
+      },
+      "displayCourseNumber" : "21.PV00629",
+      "examDate" : {
+         "coType" : "date",
+         "value" : "2026-02-24"
+      },
+      "examDateInformation" : "IP_Stadtprojekt",
+      "examEnd" : {
+         "coType" : "time",
+         "value" : "17:00:00"
+      },
+      "examPersons" : [ {
+         "identities" : [ {
+            "id" : 79281,
+            "personId" : 79281,
+            "obfuscated" : "C6A53DE0C382732E",
+            "firstName" : "Christine Margareta",
+            "lastName" : "Reicher",
+            "gender" : "FEMALE",
+            "genderNrForTitle" : 2,
+            "businessCardLink" : {
+               "rel" : "related",
+               "href" : "https://online.rwth-aachen.de/RWTHonline/ee/rest/pages/brm.pm.bc/business-card/C6A53DE0C382732E",
+               "name" : "IdentityLibDto",
+               "key" : "C6A53DE0C382732E"
+            }
+         } ],
+         "functionName" : {
+            "coType" : "model-core.lib.model.langdata",
+            "value" : "Examiner",
+            "translations" : {
+               "translation" : [ {
+                  "lang" : "de",
+                  "value" : "Prüfer*in"
+               }, {
+                  "lang" : "en",
+                  "value" : "Examiner"
+               }, {
+                  "lang" : "fr"
+               }, {
+                  "lang" : "it"
+               } ]
+            }
+         }
+      } ],
+      "examStart" : {
+         "coType" : "time",
+         "value" : "09:00:00"
+      },
+      "examType" : {
+         "coType" : "model-core.lib.model.langdata",
+         "value" : "subject examination",
+         "translations" : {
+            "translation" : [ {
+               "lang" : "de",
+               "value" : "Fachprüfung"
+            }, {
+               "lang" : "en",
+               "value" : "subject examination"
+            }, {
+               "lang" : "fr"
+            }, {
+               "lang" : "it"
+            } ]
+         }
+      },
+      "examTypeKey" : "F",
+      "id" : 1195637,
+      "identificationName" : "212410",
+      "maxNumberOfParticipants" : 9999,
+      "numberOfParticipants" : 70,
+      "organisationLibId" : 14367,
+      "organisationLibName" : {
+         "coType" : "model-core.lib.model.langdata",
+         "value" : "Chair of Urban Design and Institute for Urban Design and European Urbanism",
+         "translations" : {
+            "translation" : [ {
+               "lang" : "de",
+               "value" : "Lehrstuhl für Städtebau und Entwerfen und Institut für Städtebau und europäische Urbanistik"
+            }, {
+               "lang" : "en",
+               "value" : "Chair of Urban Design and Institute for Urban Design and European Urbanism"
+            }, {
+               "lang" : "fr"
+            }, {
+               "lang" : "it"
+            } ]
+         }
+      },
+      "preliminaryRegistration" : false,
+      "registrationDateEnd" : {
+         "coType" : "datetime",
+         "value" : "2026-02-17T23:59:00"
+      },
+      "registrationDateStart" : {
+         "coType" : "datetime",
+         "value" : "2022-11-15T00:00:00"
+      },
+      "showInformationMyStudy" : false
+   }, {
+      "courseId" : 542310,
+      "deRegistrationEnd" : {
+         "coType" : "datetime",
+         "value" : "2026-02-20T23:59:00"
+      },
+      "exExamPlanningComment" : "",
+      "exExamPlanningTools" : "",
+      "exExamPlanningType" : "",
+      "appointments" : [ {
+         "id" : 6140868,
+         "displayName" : "1230|011",
+         "url" : {
+            "rel" : "related",
+            "href" : "https://online.rwth-aachen.de/RWTHonline/ee/rest/pages/slc.cp.apt/resource/15210"
+         },
+         "personalAppointment" : false
+      } ],
+      "courseIdentityCodeId" : 186189,
+      "courseLink" : {
+         "rel" : "detail",
+         "href" : "https://online.rwth-aachen.de/RWTHonline/pages/slc.tm.cp/course/542310",
+         "type" : "text/html",
+         "name" : "CpCourseLibDto",
+         "key" : "542310"
+      },
+      "courseName" : {
+         "coType" : "model-core.lib.model.langdata",
+         "value" : "Exam Cemented Carbide Tools",
+         "translations" : {
+            "translation" : [ {
+               "lang" : "de",
+               "value" : "Prüfung Werkzeuge aus Hartmetall"
+            }, {
+               "lang" : "en",
+               "value" : "Exam Cemented Carbide Tools"
+            }, {
+               "lang" : "fr"
+            }, {
+               "lang" : "it"
+            } ]
+         }
+      },
+      "courseSemesterId" : 293,
+      "courseSemesterShortName" : {
+         "coType" : "model-core.lib.model.langdata",
+         "value" : "2025 W",
+         "translations" : {
+            "translation" : [ {
+               "lang" : "de",
+               "value" : "2025 W"
+            }, {
+               "lang" : "en"
+            }, {
+               "lang" : "fr"
+            }, {
+               "lang" : "it"
+            } ]
+         }
+      },
+      "displayCourseNumber" : "41.PV18100",
+      "examDate" : {
+         "coType" : "date",
+         "value" : "2026-02-24"
+      },
+      "examEnd" : {
+         "coType" : "time",
+         "value" : "14:30:00"
+      },
+      "examPersons" : [ {
+         "identities" : [ {
+            "id" : 50263,
+            "personId" : 50263,
+            "obfuscated" : "A7F8F1C446D7DD60",
+            "firstName" : "Kirsten",
+            "lastName" : "Bobzin",
+            "gender" : "FEMALE",
+            "genderNrForTitle" : 2,
+            "businessCardLink" : {
+               "rel" : "related",
+               "href" : "https://online.rwth-aachen.de/RWTHonline/ee/rest/pages/brm.pm.bc/business-card/A7F8F1C446D7DD60",
+               "name" : "IdentityLibDto",
+               "key" : "A7F8F1C446D7DD60"
+            }
+         } ],
+         "functionName" : {
+            "coType" : "model-core.lib.model.langdata",
+            "value" : "Examiner",
+            "translations" : {
+               "translation" : [ {
+                  "lang" : "de",
+                  "value" : "Prüfer*in"
+               }, {
+                  "lang" : "en",
+                  "value" : "Examiner"
+               }, {
+                  "lang" : "fr"
+               }, {
+                  "lang" : "it"
+               } ]
+            }
+         }
+      }, {
+         "identities" : [ {
+            "id" : 53061,
+            "personId" : 53061,
+            "obfuscated" : "D9B6EBA72DA12347",
+            "firstName" : "Christoph",
+            "lastName" : "Broeckmann",
+            "gender" : "MALE",
+            "genderNrForTitle" : 1,
+            "businessCardLink" : {
+               "rel" : "related",
+               "href" : "https://online.rwth-aachen.de/RWTHonline/ee/rest/pages/brm.pm.bc/business-card/D9B6EBA72DA12347",
+               "name" : "IdentityLibDto",
+               "key" : "D9B6EBA72DA12347"
+            }
+         } ],
+         "functionName" : {
+            "coType" : "model-core.lib.model.langdata",
+            "value" : "Further Examiners",
+            "translations" : {
+               "translation" : [ {
+                  "lang" : "de",
+                  "value" : "Weitere Prüfer*innen"
+               }, {
+                  "lang" : "en",
+                  "value" : "Further Examiners"
+               }, {
+                  "lang" : "fr"
+               }, {
+                  "lang" : "it"
+               } ]
+            }
+         }
+      } ],
+      "examStart" : {
+         "coType" : "time",
+         "value" : "13:00:00"
+      },
+      "examType" : {
+         "coType" : "model-core.lib.model.langdata",
+         "value" : "subject examination",
+         "translations" : {
+            "translation" : [ {
+               "lang" : "de",
+               "value" : "Fachprüfung"
+            }, {
+               "lang" : "en",
+               "value" : "subject examination"
+            }, {
+               "lang" : "fr"
+            }, {
+               "lang" : "it"
+            } ]
+         }
+      },
+      "examTypeKey" : "F",
+      "id" : 1211276,
+      "identificationName" : "418110",
+      "maxNumberOfParticipants" : 9999,
+      "numberOfParticipants" : 8,
+      "organisationLibId" : 14465,
+      "organisationLibName" : {
+         "coType" : "model-core.lib.model.langdata",
+         "value" : "Chair and Institute for Materials Applications in Mechanical Engineering",
+         "translations" : {
+            "translation" : [ {
+               "lang" : "de",
+               "value" : "Lehrstuhl für Werkstoffanwendungen im Maschinenbau"
+            }, {
+               "lang" : "en",
+               "value" : "Chair and Institute for Materials Applications in Mechanical Engineering"
+            }, {
+               "lang" : "fr"
+            }, {
+               "lang" : "it"
+            } ]
+         }
+      },
+      "preliminaryRegistration" : true,
+      "registrationDateEnd" : {
+         "coType" : "datetime",
+         "value" : "2026-01-30T23:59:00"
+      },
+      "registrationDateStart" : {
+         "coType" : "datetime",
+         "value" : "2025-11-15T00:00:00"
+      },
+      "showInformationMyStudy" : false
+   }, {
+      "courseId" : 542819,
+      "deRegistrationEnd" : {
+         "coType" : "datetime",
+         "value" : "2026-02-20T23:59:00"
+      },
+      "exExamPlanningComment" : "",
+      "exExamPlanningTools" : "",
+      "exExamPlanningType" : "",
+      "appointments" : [ {
+         "id" : 6063993,
+         "displayName" : "Otto Fuchs-Hörsaal (H03) (1385|003)",
+         "url" : {
+            "rel" : "related",
+            "href" : "https://online.rwth-aachen.de/RWTHonline/ee/rest/pages/slc.cp.apt/resource/26185"
+         },
+         "personalAppointment" : false
+      } ],
+      "courseIdentityCodeId" : 175346,
+      "courseLink" : {
+         "rel" : "detail",
+         "href" : "https://online.rwth-aachen.de/RWTHonline/pages/slc.tm.cp/course/542819",
+         "type" : "text/html",
+         "name" : "CpCourseLibDto",
+         "key" : "542819"
+      },
+      "courseName" : {
+         "coType" : "model-core.lib.model.langdata",
+         "value" : "Exam: Ceramics for energy technology",
+         "translations" : {
+            "translation" : [ {
+               "lang" : "de",
+               "value" : "Exam: Ceramics for energy technology"
+            }, {
+               "lang" : "en",
+               "value" : "Exam: Ceramics for energy technology"
+            }, {
+               "lang" : "fr"
+            }, {
+               "lang" : "it"
+            } ]
+         }
+      },
+      "courseSemesterId" : 293,
+      "courseSemesterShortName" : {
+         "coType" : "model-core.lib.model.langdata",
+         "value" : "2025 W",
+         "translations" : {
+            "translation" : [ {
+               "lang" : "de",
+               "value" : "2025 W"
+            }, {
+               "lang" : "en"
+            }, {
+               "lang" : "fr"
+            }, {
+               "lang" : "it"
+            } ]
+         }
+      },
+      "displayCourseNumber" : "52.PV00064",
+      "examDate" : {
+         "coType" : "date",
+         "value" : "2026-02-24"
+      },
+      "examDateInformation" : "Ersttermin, zentral geplant",
+      "examEnd" : {
+         "coType" : "time",
+         "value" : "13:30:00"
+      },
+      "examPersons" : [ {
+         "identities" : [ {
+            "id" : 58359,
+            "personId" : 58359,
+            "obfuscated" : "2F55A8D87755241A",
+            "firstName" : "Norbert Heribert",
+            "lastName" : "Menzler",
+            "gender" : "MALE",
+            "genderNrForTitle" : 1,
+            "businessCardLink" : {
+               "rel" : "related",
+               "href" : "https://online.rwth-aachen.de/RWTHonline/ee/rest/pages/brm.pm.bc/business-card/2F55A8D87755241A",
+               "name" : "IdentityLibDto",
+               "key" : "2F55A8D87755241A"
+            }
+         } ],
+         "functionName" : {
+            "coType" : "model-core.lib.model.langdata",
+            "value" : "Examiner",
+            "translations" : {
+               "translation" : [ {
+                  "lang" : "de",
+                  "value" : "Prüfer*in"
+               }, {
+                  "lang" : "en",
+                  "value" : "Examiner"
+               }, {
+                  "lang" : "fr"
+               }, {
+                  "lang" : "it"
+               } ]
+            }
+         }
+      }, {
+         "identities" : [ {
+            "id" : 54748,
+            "personId" : 54748,
+            "obfuscated" : "9E786F1CA1B135A0",
+            "firstName" : "Thorsten Erik",
+            "lastName" : "Tonnesen",
+            "gender" : "MALE",
+            "genderNrForTitle" : 1,
+            "businessCardLink" : {
+               "rel" : "related",
+               "href" : "https://online.rwth-aachen.de/RWTHonline/ee/rest/pages/brm.pm.bc/business-card/9E786F1CA1B135A0",
+               "name" : "IdentityLibDto",
+               "key" : "9E786F1CA1B135A0"
+            }
+         } ],
+         "functionName" : {
+            "coType" : "model-core.lib.model.langdata",
+            "value" : "Further Examiners",
+            "translations" : {
+               "translation" : [ {
+                  "lang" : "de",
+                  "value" : "Weitere Prüfer*innen"
+               }, {
+                  "lang" : "en",
+                  "value" : "Further Examiners"
+               }, {
+                  "lang" : "fr"
+               }, {
+                  "lang" : "it"
+               } ]
+            }
+         }
+      }, {
+         "identities" : [ {
+            "id" : 54748,
+            "personId" : 54748,
+            "obfuscated" : "9E786F1CA1B135A0",
+            "firstName" : "Thorsten Erik",
+            "lastName" : "Tonnesen",
+            "gender" : "MALE",
+            "genderNrForTitle" : 1,
+            "businessCardLink" : {
+               "rel" : "related",
+               "href" : "https://online.rwth-aachen.de/RWTHonline/ee/rest/pages/brm.pm.bc/business-card/9E786F1CA1B135A0",
+               "name" : "IdentityLibDto",
+               "key" : "9E786F1CA1B135A0"
+            }
+         } ],
+         "functionName" : {
+            "coType" : "model-core.lib.model.langdata",
+            "value" : "Responsible person for exam planning/procedure",
+            "translations" : {
+               "translation" : [ {
+                  "lang" : "de",
+                  "value" : "Berechtigte Person für Prüfungsplanung/Abwicklung"
+               }, {
+                  "lang" : "en",
+                  "value" : "Responsible person for exam planning/procedure"
+               }, {
+                  "lang" : "fr"
+               }, {
+                  "lang" : "it"
+               } ]
+            }
+         }
+      } ],
+      "examStart" : {
+         "coType" : "time",
+         "value" : "12:00:00"
+      },
+      "examType" : {
+         "coType" : "model-core.lib.model.langdata",
+         "value" : "subject examination",
+         "translations" : {
+            "translation" : [ {
+               "lang" : "de",
+               "value" : "Fachprüfung"
+            }, {
+               "lang" : "en",
+               "value" : "subject examination"
+            }, {
+               "lang" : "fr"
+            }, {
+               "lang" : "it"
+            } ]
+         }
+      },
+      "examTypeKey" : "F",
+      "id" : 1196903,
+      "identificationName" : "524110",
+      "maxNumberOfParticipants" : 9999,
+      "numberOfParticipants" : 21,
+      "organisationLibId" : 14512,
+      "organisationLibName" : {
+         "coType" : "model-core.lib.model.langdata",
+         "value" : "Chair of Ceramics and Institute of Mineral Engineering",
+         "translations" : {
+            "translation" : [ {
+               "lang" : "de",
+               "value" : "Lehrstuhl für Keramik und Institut für Gesteinshüttenkunde"
+            }, {
+               "lang" : "en",
+               "value" : "Chair of Ceramics and Institute of Mineral Engineering"
+            }, {
+               "lang" : "fr"
+            }, {
+               "lang" : "it"
+            } ]
+         }
+      },
+      "preliminaryRegistration" : false,
+      "registrationDateEnd" : {
+         "coType" : "datetime",
+         "value" : "2026-01-15T23:59:00"
+      },
+      "registrationDateStart" : {
+         "coType" : "datetime",
+         "value" : "2025-11-15T00:00:00"
+      },
+      "showInformationMyStudy" : false
+   }, {
+      "courseId" : 544567,
+      "deRegistrationEnd" : {
+         "coType" : "datetime",
+         "value" : "2026-02-20T23:59:00"
+      },
+      "exExamPlanningComment" : "",
+      "exExamPlanningTools" : "",
+      "exExamPlanningType" : "",
+      "appointments" : [ {
+         "id" : 6072084,
+         "displayName" : "HKW 2 (1132|303)",
+         "url" : {
+            "rel" : "related",
+            "href" : "https://online.rwth-aachen.de/RWTHonline/ee/rest/pages/slc.cp.apt/resource/11979"
+         },
+         "personalAppointment" : false
+      } ],
+      "courseIdentityCodeId" : 154478,
+      "courseLink" : {
+         "rel" : "detail",
+         "href" : "https://online.rwth-aachen.de/RWTHonline/pages/slc.tm.cp/course/544567",
+         "type" : "text/html",
+         "name" : "CpCourseLibDto",
+         "key" : "544567"
+      },
+      "courseName" : {
+         "coType" : "model-core.lib.model.langdata",
+         "value" : "Exam Christianity",
+         "translations" : {
+            "translation" : [ {
+               "lang" : "de",
+               "value" : "Klausur Kirchengeschichte"
+            }, {
+               "lang" : "en",
+               "value" : "Exam Christianity"
+            }, {
+               "lang" : "fr"
+            }, {
+               "lang" : "it"
+            } ]
+         }
+      },
+      "courseSemesterId" : 293,
+      "courseSemesterShortName" : {
+         "coType" : "model-core.lib.model.langdata",
+         "value" : "2025 W",
+         "translations" : {
+            "translation" : [ {
+               "lang" : "de",
+               "value" : "2025 W"
+            }, {
+               "lang" : "en"
+            }, {
+               "lang" : "fr"
+            }, {
+               "lang" : "it"
+            } ]
+         }
+      },
+      "displayCourseNumber" : "78.PV33951",
+      "examDate" : {
+         "coType" : "date",
+         "value" : "2026-02-24"
+      },
+      "examDateInformation" : "Ersttermin, zentral geplant",
+      "examEnd" : {
+         "coType" : "time",
+         "value" : "11:00:00"
+      },
+      "examPersons" : [ {
+         "identities" : [ {
+            "id" : 55364,
+            "personId" : 55364,
+            "obfuscated" : "441ADD6EDCDDCE1C",
+            "firstName" : "Jörg",
+            "lastName" : "Fündling",
+            "gender" : "MALE",
+            "genderNrForTitle" : 1,
+            "businessCardLink" : {
+               "rel" : "related",
+               "href" : "https://online.rwth-aachen.de/RWTHonline/ee/rest/pages/brm.pm.bc/business-card/441ADD6EDCDDCE1C",
+               "name" : "IdentityLibDto",
+               "key" : "441ADD6EDCDDCE1C"
+            }
+         } ],
+         "functionName" : {
+            "coType" : "model-core.lib.model.langdata",
+            "value" : "Examiner",
+            "translations" : {
+               "translation" : [ {
+                  "lang" : "de",
+                  "value" : "Prüfer*in"
+               }, {
+                  "lang" : "en",
+                  "value" : "Examiner"
+               }, {
+                  "lang" : "fr"
+               }, {
+                  "lang" : "it"
+               } ]
+            }
+         }
+      } ],
+      "examStart" : {
+         "coType" : "time",
+         "value" : "09:00:00"
+      },
+      "examType" : {
+         "coType" : "model-core.lib.model.langdata",
+         "value" : "subject examination",
+         "translations" : {
+            "translation" : [ {
+               "lang" : "de",
+               "value" : "Fachprüfung"
+            }, {
+               "lang" : "en",
+               "value" : "subject examination"
+            }, {
+               "lang" : "fr"
+            }, {
+               "lang" : "it"
+            } ]
+         }
+      },
+      "examTypeKey" : "F",
+      "id" : 1199041,
+      "identificationName" : "781620",
+      "maxNumberOfParticipants" : 9999,
+      "numberOfParticipants" : 0,
+      "organisationLibId" : 17123,
+      "organisationLibName" : {
+         "coType" : "model-core.lib.model.langdata",
+         "value" : "Church History Teaching and Research Area",
+         "translations" : {
+            "translation" : [ {
+               "lang" : "de",
+               "value" : "Lehr- und Forschungsgebiet Kirchengeschichte"
+            }, {
+               "lang" : "en",
+               "value" : "Church History Teaching and Research Area"
+            }, {
+               "lang" : "fr"
+            }, {
+               "lang" : "it"
+            } ]
+         }
+      },
+      "preliminaryRegistration" : false,
+      "registrationDateEnd" : {
+         "coType" : "datetime",
+         "value" : "2026-02-17T23:59:00"
+      },
+      "registrationDateStart" : {
+         "coType" : "datetime",
+         "value" : "2025-11-15T00:00:00"
+      },
+      "showInformationMyStudy" : false
+   } ],
+   "curriculumContextLink" : {
+      "rel" : "related",
+      "href" : "https://online.rwth-aachen.de/RWTHonline/ee/rest/slc.cm.curriculumcontext/potential/{studyId}/{courseId}/potentialCurriculumExamContexts",
+      "name" : "CURRICULUM_CONTEXT"
+   },
+   "totalCount" : 3171
+}
